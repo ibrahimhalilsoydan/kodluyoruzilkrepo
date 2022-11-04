@@ -5,11 +5,14 @@
 ![ilk repo fotograf yükleme](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 
-##Installation
+## Installation
+
+
 [Link:](https://github.com/ibrahimhalilsoydan/kodluyoruzilkrepo.git)
 
-##Usage
-**Proje Github üzerinden clonlanarak Vs code üzerinden düzenlenmiştir**
+## Usage
+***Proje Github üzerinden clonlanarak Vs code üzerinden düzenlenmiştir**
 
-##Contributing
- herkese başarılar.
+## Contributing
+
+ ***Herkese başarılar.
